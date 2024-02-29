@@ -141,7 +141,7 @@ switch(numb % 3) {
     default:
         console.log("Number is not divisible by 3");
 
-        break;
+     break;
 }
 
 
